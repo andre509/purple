@@ -1,13 +1,12 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"Indosiar _VIDIO" group-title="LIVE",KhususLive01(indosiar)
+#EXTINF:-1 group-title="LIVE",Indosiar Live
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7674_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"Indosiar _VIDIO" group-title="LIVE",KhususLive02(indosiar)
+#EXTINF:-1 group-title="LIVE",Indosiar Live
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7675_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"Indosiar _VIDIO" group-title="LIVE",KhususLive03(indosiar)
+#EXTINF:-1 group-title="LIVE",Indosiar Live
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7676_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"Indosiar _VIDIO" group-title="LIVE",KhususLive04(indosiar)
+#EXTINF:-1 group-title="LIVE",Indosiar Live
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_7677_1080p/index.m3u8
 
 
