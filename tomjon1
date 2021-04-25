@@ -2190,54 +2190,6 @@ http://goiptv.co:8080/avatar/fVkKAhhBlr/3017
 
 
 
-
-
-#EXTINF:-1 group-title="Sports Tes",beINSPORT1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33899
-#EXTINF:-1 group-title="Sports Tes",BEIN SPORT 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33895
-#EXTINF:-1 group-title="Sports Tes",beINSPORT2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33900
-#EXTINF:-1 group-title="Sports Tes",BEIN SPORT 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33896
-#EXTINF:-1 group-title="Sports Tes",beINSPORT3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33901
-#EXTINF:-1 group-title="Sports Tes",BEIN SPORT 3
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33897
-#EXTINF:-1 group-title="Sports Tes",BEIN SPORT 4
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33898
-#EXTINF:-1 group-title="Sports Tes",EUROSPORT-1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33892
-#EXTINF:-1 group-title="Sports Tes",EUROSPORT-2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33893
-#EXTINF:-1 group-title="Sports Tes",A SPOR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33902
-#EXTINF:-1 group-title="Sports Tes",SMART SPOR
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33903
-#EXTINF:-1 group-title="Sports Tes",SPORT+
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33904
-#EXTINF:-1 group-title="Sports Tes",NBA TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT 650HD_PRO V2.7.59
-http://dream4k.co:8080/DM_Snappyarr/adfsgbhgsvdfv/33905
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="SPORT|: LFC TV HD" tvg-logo="" group-title="SPORTS(English)",SPORT|: LFC TV HD
 http://uk.redhatiptv.com:25461/LOFt366Byua7/67xf0zAeoE/26761
 #EXTINF:-1 tvg-id="" tvg-name="SPORT:DE | FC Bayern" tvg-logo="" group-title="SPORTS(English)",SPORT:DE | FC Bayern
