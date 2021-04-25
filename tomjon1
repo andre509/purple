@@ -1609,15 +1609,6 @@ http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/247418
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO ASSP4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/50e02a8627aa307538fa24480bc9d061.png" group-title="SPORTS WAK",MY: ASTRO ASSP4 HD
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="SPORTS WAK",MY: Astro SuperSport 1 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="SPORTS WAK",MY: Astro SuperSport 2 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157556
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="SPORTS WAK",MY: Astro SuperSport 3 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157557
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="SPORTS WAK",MY: Astro SuperSport 4 HD
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157558
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"  group-title="SPORTS WAK",StarSport Select 1
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1760519830.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png"  group-title="SPORTS WAK",StarSport Select 2
